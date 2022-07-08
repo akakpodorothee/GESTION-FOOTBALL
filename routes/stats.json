@@ -3,30 +3,35 @@
       "id": 101,
       "wins": 10,
       "losses": 3,
-      "points_scored": 7
+      "points_scored": 7,
+      "nom": "adebayor SHEYI"
     },
     {
       "id": 231,
       "wins": 1,
       "losses": 10,
-      "points_scored": 2
+      "points_scored": 2,
+       "nom": "agassa KOSSI"
     },
     {
       "id": 145,
       "wins": 5,
       "losses": 1,
-      "points_scored": 14
+      "points_scored": 14,
+      "nom": "serge GAKPE"
     },
     {
       "id": 45,
       "wins": 6,
       "losses": 2,
-      "points_scored": 2
-    },
+      "points_scored": 2,
+      "nom": "gafar MAMA"
+     },
     {
       "id": 27,
       "wins": 14,
       "losses": 26,
-      "points_scored": 28
+      "points_scored": 28,
+      "nom": "steven foly MENSAH"
     }
   ]
