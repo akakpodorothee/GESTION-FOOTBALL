@@ -18,7 +18,7 @@
 
      COMMENT UTILISE:
 
-     .POST https://www.ourapi.com/api/v1/stats/(le id)
+     .POST https://whispering-forest-65829.herokuapp.com/api/v1/stats/(le id)
           
           ce lien permettra de créer les statistiques d'un joueur
            
@@ -39,7 +39,7 @@
                     "points_scored": 14
                     },
 
-      .GET https://www.ourapi.com/api/v1/stats
+      .GET https://whispering-forest-65829.herokuapp.com/api/v1/stats
                 
                 ce lien permettra d'obtenir les statistiques du joueur 145
 
@@ -52,7 +52,7 @@
                     "points_scored": 14
                     },
 
-       .PUT https://www.ourapi.com/api/v1/stats/(id)
+       .PUT https://whispering-forest-65829.herokuapp.com/api/v1/stats/(id)
 
        ce lien mettra à jour les statistiuques  du joueur 27
 
@@ -72,7 +72,7 @@
                 "points_scored": 28
                 }
 
-        .DELETE https://www.ourapi.com/api/v1/stats/(id) 
+        .DELETE https://whispering-forest-65829.herokuapp.com/api/v1/stats/(id) 
 
              ce lien effacera les statistiques du joueur 1O1 
 
